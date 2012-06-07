@@ -1,0 +1,18 @@
+#Hey guys pushing this up to the repository test.
+
+#Also working on my dev setup.
+#It's going here my sets.
+
+#1. download ruby  http://rubyinstaller.org/downloads/ for ez mode with installer
+#2. download some rubygems http://rubygems.org/pages/download
+#2a. download rails "gem install rails"
+#3.  also install devkit http://rubyinstaller.org/downloads/ instructions to use at https://github.com/oneclick/rubyinstaller/wiki/Development-Kit
+#3a. dowland aptana
+#4. made up some random hello world project on there.
+
+#5. current status is that i can't run the project on aptana there because of this c:/Ruby193/lib/ruby/site_ruby/1.9.1/rubygems/custom_require.rb:36:in `require': cannot load such file -- ruble (LoadError)
+	from c:/Ruby193/lib/ruby/site_ruby/1.9.1/rubygems/custom_require.rb:36:in `require'
+	from C:/Users/akoerner/My Documents/Aptana Studio 3 Workspace/Hello World/bundle.rb:1:in `<main>'
+
+
+#try to fix that later
